@@ -1,0 +1,9 @@
+1-Medialunas Saladas/$1700
+2-Medialunas Dulces/$1900
+3-Cañonsitos/$2000
+4-Pan/$3500
+5-Sangucuchitos de Miga/$1400
+6-Tortas Negras/$2000
+7-Tortas Negras Rellenas/$2500
+9-Galletas Caseras/$3200(Elemento modificado de la Etapa 2)
+10-Factura Crema Pastelera/$2100
