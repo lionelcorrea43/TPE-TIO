@@ -6,4 +6,10 @@
 6-Tortas Negras/$2000
 7-Tortas Negras Rellenas/$2500
 9-Galletas Caseras/$3200(Elemento modificado de la Etapa 2)
+<<<<<<< HEAD
 10-Factura Crema Pastelera/$2100
+=======
+10-Factura Crema Pastelera/$2100
+11-facturas de chocolates
+12-cañoncitos verdes
+>>>>>>> productos
