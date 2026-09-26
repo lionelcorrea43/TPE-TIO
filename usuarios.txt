@@ -7,3 +7,4 @@ Julian Alvarez
 Nicolas Tagliafico
 Gonzalo Montiel
 Emiliano Martinez
+Rodrigo De Paul
