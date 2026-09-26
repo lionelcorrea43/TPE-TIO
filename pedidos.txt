@@ -6,6 +6,5 @@
 5-Sangucuchitos de Miga/$1400
 6-Tortas Negras/$2000
 7-Tortas Negras Rellenas/$2500
-8-Sacramento/$1900
 9-Galletas Caseras/$3200(Elemento modificado de la Etapa 2)
 10-Factura Crema Pastelera/$2100
